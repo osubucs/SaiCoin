@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=SaiCoin
+Comment=SaiCoin P2P Cryptocurrency
+Comment[fr]=SaiCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=SaiCoin, eşten eşe kriptografik sanal para birimi
+Exec=dash-qt %u
+Terminal=false
+Type=Application
+Icon=dash128
+MimeType=x-scheme-handler/dash;
+Categories=Office;Finance;
